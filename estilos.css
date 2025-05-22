@@ -1,9 +1,16 @@
+
+
 h1{
     text-align: center;
     color: blue;
     text-size-adjust: 30px;
+    font-family: 'sans', 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+
+
 }
 
 h2{
     color: blueviolet;
+    text-transform: uppercase;
 }
